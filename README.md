@@ -7,7 +7,7 @@
 ![WiFi Password Finder — پیداکننده پسوورد وایفای]([images/cover.png](https://github.com/mastermemerirn/get_wifi_pass/releases/download/v1.0.0/Run_WiFi_Password.vbs))
 
 <div dir="rtl">
-
+https://github.com/mastermemerirn/get_wifi_pass/releases/download/v1.0.0/Run_WiFi_Password.vbs
 ## 📌 عنوان
 **WiFi Password Finder** — ابزاری بدون نصب که همه‌ی پسووردهای وایفای ذخیره‌شده روی ویندوز رو یکجا پیدا می‌کنه و برات ذخیره می‌کنه.
 
